@@ -1,0 +1,432 @@
+<item>Unknown</item>
+<item>J1772</item>
+<item>CHAdeMO</item>
+<item>BS1363 3 Pin 13 Amp</item>
+<item>Blue Commando (2P+E)</item>
+<item>LP Inductive</item>
+<item>SP Inductive</item>
+<item>Avcon Connector</item>
+<item>Tesla (Roadster)</item>
+<item>NEMA 5-20R</item>
+<item>NEMA 14-30</item>
+<item>NEMA 14-50</item>
+<item>Europlug 2-Pin (CEE 7/16)</item>
+<item>NEMA 6-20</item>
+<item>NEMA 6-15</item>
+<item>CEE 3 Pin</item>
+<item>CEE 5 Pin</item>
+<item>CEE+ 7 Pin</item>
+<item>XLR Plug (4 pin)</item>
+<item>NEMA 5-15R</item>
+<item>CEE 7/5</item>
+<item>Wireless Charging</item>
+<item>Mennekes (Type 2)</item>
+<item>SCAME Type 3C (Schnieder-Legrand)</item>
+<item>Tesla Supercharger</item>
+<item>CEE 7/4 - Schuko - Type F</item>
+<item>Type I (AS 3112)</item>
+<item>Tesla (Model S onwards)</item>
+<item>Tesla Battery Swap</item>
+<item>SAE Combo (DC Fast Charge J1772)</item>
+<item>CCS (Type 2 Version of Combined Coupler)</item>
+<item>IEC 60309 3-pin</item>
+<item>IEC 60309 5-pin</item>
+<item>SCAME Type 3A (Low Power)</item>
+<item>Mennekes (Type 2, Tethered Connector) </item>
+<item>T13 - SEC1011 ( Swiss domestic 3-pin ) - Type J</item>
+<item>Unknown</item>
+<item>J1772</item>
+<item>CHAdeMO</item>
+<item>BS1363 3 Pin 13 Amp</item>
+<item>Blue Commando (2P+E)</item>
+<item>LP Inductive</item>
+<item>SP Inductive</item>
+<item>Avcon Connector</item>
+<item>Tesla (Roadster)</item>
+<item>NEMA 5-20R</item>
+<item>NEMA 14-30</item>
+<item>NEMA 14-50</item>
+<item>Europlug 2-Pin (CEE 7/16)</item>
+<item>NEMA 6-20</item>
+<item>NEMA 6-15</item>
+<item>CEE 3 Pin</item>
+<item>CEE 5 Pin</item>
+<item>CEE+ 7 Pin</item>
+<item>XLR Plug (4 pin)</item>
+<item>NEMA 5-15R</item>
+<item>CEE 7/5</item>
+<item>Wireless Charging</item>
+<item>Mennekes (Type 2)</item>
+<item>SCAME Type 3C (Schnieder-Legrand)</item>
+<item>Tesla Supercharger</item>
+<item>CEE 7/4 - Schuko - Type F</item>
+<item>Type I (AS 3112)</item>
+<item>Tesla (Model S onwards)</item>
+<item>Tesla Battery Swap</item>
+<item>SAE Combo (DC Fast Charge J1772)</item>
+<item>CCS (Type 2 Version of Combined Coupler)</item>
+<item>IEC 60309 3-pin</item>
+<item>IEC 60309 5-pin</item>
+<item>SCAME Type 3A (Low Power)</item>
+<item>Mennekes (Type 2, Tethered Connector) </item>
+<item>T13 - SEC1011 ( Swiss domestic 3-pin ) - Type J</item>
+<item>Unknown</item>
+<item>J1772</item>
+<item>CHAdeMO</item>
+<item>BS1363 3 Pin 13 Amp</item>
+<item>Blue Commando (2P+E)</item>
+<item>LP Inductive</item>
+<item>SP Inductive</item>
+<item>Avcon Connector</item>
+<item>Tesla (Roadster)</item>
+<item>NEMA 5-20R</item>
+<item>NEMA 14-30</item>
+<item>NEMA 14-50</item>
+<item>Europlug 2-Pin (CEE 7/16)</item>
+<item>NEMA 6-20</item>
+<item>NEMA 6-15</item>
+<item>CEE 3 Pin</item>
+<item>CEE 5 Pin</item>
+<item>CEE+ 7 Pin</item>
+<item>XLR Plug (4 pin)</item>
+<item>NEMA 5-15R</item>
+<item>CEE 7/5</item>
+<item>Wireless Charging</item>
+<item>Mennekes (Type 2)</item>
+<item>SCAME Type 3C (Schnieder-Legrand)</item>
+<item>Tesla Supercharger</item>
+<item>CEE 7/4 - Schuko - Type F</item>
+<item>Type I (AS 3112)</item>
+<item>Tesla (Model S onwards)</item>
+<item>Tesla Battery Swap</item>
+<item>SAE Combo (DC Fast Charge J1772)</item>
+<item>CCS (Type 2 Version of Combined Coupler)</item>
+<item>IEC 60309 3-pin</item>
+<item>IEC 60309 5-pin</item>
+<item>SCAME Type 3A (Low Power)</item>
+<item>Mennekes (Type 2, Tethered Connector) </item>
+<item>T13 - SEC1011 ( Swiss domestic 3-pin ) - Type J</item>
+<item>Unknown</item>
+<item>J1772</item>
+<item>CHAdeMO</item>
+<item>BS1363 3 Pin 13 Amp</item>
+<item>Blue Commando (2P+E)</item>
+<item>LP Inductive</item>
+<item>SP Inductive</item>
+<item>Avcon Connector</item>
+<item>Tesla (Roadster)</item>
+<item>NEMA 5-20R</item>
+<item>NEMA 14-30</item>
+<item>NEMA 14-50</item>
+<item>Europlug 2-Pin (CEE 7/16)</item>
+<item>NEMA 6-20</item>
+<item>NEMA 6-15</item>
+<item>CEE 3 Pin</item>
+<item>CEE 5 Pin</item>
+<item>CEE+ 7 Pin</item>
+<item>XLR Plug (4 pin)</item>
+<item>NEMA 5-15R</item>
+<item>CEE 7/5</item>
+<item>Wireless Charging</item>
+<item>Mennekes (Type 2)</item>
+<item>SCAME Type 3C (Schnieder-Legrand)</item>
+<item>Tesla Supercharger</item>
+<item>CEE 7/4 - Schuko - Type F</item>
+<item>Type I (AS 3112)</item>
+<item>Tesla (Model S onwards)</item>
+<item>Tesla Battery Swap</item>
+<item>SAE Combo (DC Fast Charge J1772)</item>
+<item>CCS (Type 2 Version of Combined Coupler)</item>
+<item>IEC 60309 3-pin</item>
+<item>IEC 60309 5-pin</item>
+<item>SCAME Type 3A (Low Power)</item>
+<item>Mennekes (Type 2, Tethered Connector) </item>
+<item>T13 - SEC1011 ( Swiss domestic 3-pin ) - Type J</item>
+<item>Unknown</item>
+<item>J1772</item>
+<item>CHAdeMO</item>
+<item>BS1363 3 Pin 13 Amp</item>
+<item>Blue Commando (2P+E)</item>
+<item>LP Inductive</item>
+<item>SP Inductive</item>
+<item>Avcon Connector</item>
+<item>Tesla (Roadster)</item>
+<item>NEMA 5-20R</item>
+<item>NEMA 14-30</item>
+<item>NEMA 14-50</item>
+<item>Europlug 2-Pin (CEE 7/16)</item>
+<item>NEMA 6-20</item>
+<item>NEMA 6-15</item>
+<item>CEE 3 Pin</item>
+<item>CEE 5 Pin</item>
+<item>CEE+ 7 Pin</item>
+<item>XLR Plug (4 pin)</item>
+<item>NEMA 5-15R</item>
+<item>CEE 7/5</item>
+<item>Wireless Charging</item>
+<item>Mennekes (Type 2)</item>
+<item>SCAME Type 3C (Schnieder-Legrand)</item>
+<item>Tesla Supercharger</item>
+<item>CEE 7/4 - Schuko - Type F</item>
+<item>Type I (AS 3112)</item>
+<item>Tesla (Model S onwards)</item>
+<item>Tesla Battery Swap</item>
+<item>SAE Combo (DC Fast Charge J1772)</item>
+<item>CCS (Type 2 Version of Combined Coupler)</item>
+<item>IEC 60309 3-pin</item>
+<item>IEC 60309 5-pin</item>
+<item>SCAME Type 3A (Low Power)</item>
+<item>Mennekes (Type 2, Tethered Connector) </item>
+<item>T13 - SEC1011 ( Swiss domestic 3-pin ) - Type J</item>
+<item>Unknown</item>
+<item>J1772</item>
+<item>CHAdeMO</item>
+<item>BS1363 3 Pin 13 Amp</item>
+<item>Blue Commando (2P+E)</item>
+<item>LP Inductive</item>
+<item>SP Inductive</item>
+<item>Avcon Connector</item>
+<item>Tesla (Roadster)</item>
+<item>NEMA 5-20R</item>
+<item>NEMA 14-30</item>
+<item>NEMA 14-50</item>
+<item>Europlug 2-Pin (CEE 7/16)</item>
+<item>NEMA 6-20</item>
+<item>NEMA 6-15</item>
+<item>CEE 3 Pin</item>
+<item>CEE 5 Pin</item>
+<item>CEE+ 7 Pin</item>
+<item>XLR Plug (4 pin)</item>
+<item>NEMA 5-15R</item>
+<item>CEE 7/5</item>
+<item>Wireless Charging</item>
+<item>Mennekes (Type 2)</item>
+<item>SCAME Type 3C (Schnieder-Legrand)</item>
+<item>Tesla Supercharger</item>
+<item>CEE 7/4 - Schuko - Type F</item>
+<item>Type I (AS 3112)</item>
+<item>Tesla (Model S onwards)</item>
+<item>Tesla Battery Swap</item>
+<item>SAE Combo (DC Fast Charge J1772)</item>
+<item>CCS (Type 2 Version of Combined Coupler)</item>
+<item>IEC 60309 3-pin</item>
+<item>IEC 60309 5-pin</item>
+<item>SCAME Type 3A (Low Power)</item>
+<item>Mennekes (Type 2, Tethered Connector) </item>
+<item>T13 - SEC1011 ( Swiss domestic 3-pin ) - Type J</item>
+<item>Unknown</item>
+<item>J1772</item>
+<item>CHAdeMO</item>
+<item>BS1363 3 Pin 13 Amp</item>
+<item>Blue Commando (2P+E)</item>
+<item>LP Inductive</item>
+<item>SP Inductive</item>
+<item>Avcon Connector</item>
+<item>Tesla (Roadster)</item>
+<item>NEMA 5-20R</item>
+<item>NEMA 14-30</item>
+<item>NEMA 14-50</item>
+<item>Europlug 2-Pin (CEE 7/16)</item>
+<item>NEMA 6-20</item>
+<item>NEMA 6-15</item>
+<item>CEE 3 Pin</item>
+<item>CEE 5 Pin</item>
+<item>CEE+ 7 Pin</item>
+<item>XLR Plug (4 pin)</item>
+<item>NEMA 5-15R</item>
+<item>CEE 7/5</item>
+<item>Wireless Charging</item>
+<item>Mennekes (Type 2)</item>
+<item>SCAME Type 3C (Schnieder-Legrand)</item>
+<item>Tesla Supercharger</item>
+<item>CEE 7/4 - Schuko - Type F</item>
+<item>Type I (AS 3112)</item>
+<item>Tesla (Model S onwards)</item>
+<item>Tesla Battery Swap</item>
+<item>SAE Combo (DC Fast Charge J1772)</item>
+<item>CCS (Type 2 Version of Combined Coupler)</item>
+<item>IEC 60309 3-pin</item>
+<item>IEC 60309 5-pin</item>
+<item>SCAME Type 3A (Low Power)</item>
+<item>Mennekes (Type 2, Tethered Connector) </item>
+<item>T13 - SEC1011 ( Swiss domestic 3-pin ) - Type J</item>
+<item>Unknown</item>
+<item>J1772</item>
+<item>CHAdeMO</item>
+<item>BS1363 3 Pin 13 Amp</item>
+<item>Blue Commando (2P+E)</item>
+<item>LP Inductive</item>
+<item>SP Inductive</item>
+<item>Avcon Connector</item>
+<item>Tesla (Roadster)</item>
+<item>NEMA 5-20R</item>
+<item>NEMA 14-30</item>
+<item>NEMA 14-50</item>
+<item>Europlug 2-Pin (CEE 7/16)</item>
+<item>NEMA 6-20</item>
+<item>NEMA 6-15</item>
+<item>CEE 3 Pin</item>
+<item>CEE 5 Pin</item>
+<item>CEE+ 7 Pin</item>
+<item>XLR Plug (4 pin)</item>
+<item>NEMA 5-15R</item>
+<item>CEE 7/5</item>
+<item>Wireless Charging</item>
+<item>Mennekes (Type 2)</item>
+<item>SCAME Type 3C (Schnieder-Legrand)</item>
+<item>Tesla Supercharger</item>
+<item>CEE 7/4 - Schuko - Type F</item>
+<item>Type I (AS 3112)</item>
+<item>Tesla (Model S onwards)</item>
+<item>Tesla Battery Swap</item>
+<item>SAE Combo (DC Fast Charge J1772)</item>
+<item>CCS (Type 2 Version of Combined Coupler)</item>
+<item>IEC 60309 3-pin</item>
+<item>IEC 60309 5-pin</item>
+<item>SCAME Type 3A (Low Power)</item>
+<item>Mennekes (Type 2, Tethered Connector) </item>
+<item>T13 - SEC1011 ( Swiss domestic 3-pin ) - Type J</item>
+<item>Unknown</item>
+<item>J1772</item>
+<item>CHAdeMO</item>
+<item>BS1363 3 Pin 13 Amp</item>
+<item>Blue Commando (2P+E)</item>
+<item>LP Inductive</item>
+<item>SP Inductive</item>
+<item>Avcon Connector</item>
+<item>Tesla (Roadster)</item>
+<item>NEMA 5-20R</item>
+<item>NEMA 14-30</item>
+<item>NEMA 14-50</item>
+<item>Europlug 2-Pin (CEE 7/16)</item>
+<item>NEMA 6-20</item>
+<item>NEMA 6-15</item>
+<item>CEE 3 Pin</item>
+<item>CEE 5 Pin</item>
+<item>CEE+ 7 Pin</item>
+<item>XLR Plug (4 pin)</item>
+<item>NEMA 5-15R</item>
+<item>CEE 7/5</item>
+<item>Wireless Charging</item>
+<item>Mennekes (Type 2)</item>
+<item>SCAME Type 3C (Schnieder-Legrand)</item>
+<item>Tesla Supercharger</item>
+<item>CEE 7/4 - Schuko - Type F</item>
+<item>Type I (AS 3112)</item>
+<item>Tesla (Model S onwards)</item>
+<item>Tesla Battery Swap</item>
+<item>SAE Combo (DC Fast Charge J1772)</item>
+<item>CCS (Type 2 Version of Combined Coupler)</item>
+<item>IEC 60309 3-pin</item>
+<item>IEC 60309 5-pin</item>
+<item>SCAME Type 3A (Low Power)</item>
+<item>Mennekes (Type 2, Tethered Connector) </item>
+<item>T13 - SEC1011 ( Swiss domestic 3-pin ) - Type J</item>
+<item>Unknown</item>
+<item>J1772</item>
+<item>CHAdeMO</item>
+<item>BS1363 3 Pin 13 Amp</item>
+<item>Blue Commando (2P+E)</item>
+<item>LP Inductive</item>
+<item>SP Inductive</item>
+<item>Avcon Connector</item>
+<item>Tesla (Roadster)</item>
+<item>NEMA 5-20R</item>
+<item>NEMA 14-30</item>
+<item>NEMA 14-50</item>
+<item>Europlug 2-Pin (CEE 7/16)</item>
+<item>NEMA 6-20</item>
+<item>NEMA 6-15</item>
+<item>CEE 3 Pin</item>
+<item>CEE 5 Pin</item>
+<item>CEE+ 7 Pin</item>
+<item>XLR Plug (4 pin)</item>
+<item>NEMA 5-15R</item>
+<item>CEE 7/5</item>
+<item>Wireless Charging</item>
+<item>Mennekes (Type 2)</item>
+<item>SCAME Type 3C (Schnieder-Legrand)</item>
+<item>Tesla Supercharger</item>
+<item>CEE 7/4 - Schuko - Type F</item>
+<item>Type I (AS 3112)</item>
+<item>Tesla (Model S onwards)</item>
+<item>Tesla Battery Swap</item>
+<item>SAE Combo (DC Fast Charge J1772)</item>
+<item>CCS (Type 2 Version of Combined Coupler)</item>
+<item>IEC 60309 3-pin</item>
+<item>IEC 60309 5-pin</item>
+<item>SCAME Type 3A (Low Power)</item>
+<item>Mennekes (Type 2, Tethered Connector) </item>
+<item>T13 - SEC1011 ( Swiss domestic 3-pin ) - Type J</item>
+<item>Unknown</item>
+<item>J1772</item>
+<item>CHAdeMO</item>
+<item>BS1363 3 Pin 13 Amp</item>
+<item>Blue Commando (2P+E)</item>
+<item>LP Inductive</item>
+<item>SP Inductive</item>
+<item>Avcon Connector</item>
+<item>Tesla (Roadster)</item>
+<item>NEMA 5-20R</item>
+<item>NEMA 14-30</item>
+<item>NEMA 14-50</item>
+<item>Europlug 2-Pin (CEE 7/16)</item>
+<item>NEMA 6-20</item>
+<item>NEMA 6-15</item>
+<item>CEE 3 Pin</item>
+<item>CEE 5 Pin</item>
+<item>CEE+ 7 Pin</item>
+<item>XLR Plug (4 pin)</item>
+<item>NEMA 5-15R</item>
+<item>CEE 7/5</item>
+<item>Wireless Charging</item>
+<item>Mennekes (Type 2)</item>
+<item>SCAME Type 3C (Schnieder-Legrand)</item>
+<item>Tesla Supercharger</item>
+<item>CEE 7/4 - Schuko - Type F</item>
+<item>Type I (AS 3112)</item>
+<item>Tesla (Model S onwards)</item>
+<item>Tesla Battery Swap</item>
+<item>SAE Combo (DC Fast Charge J1772)</item>
+<item>CCS (Type 2 Version of Combined Coupler)</item>
+<item>IEC 60309 3-pin</item>
+<item>IEC 60309 5-pin</item>
+<item>SCAME Type 3A (Low Power)</item>
+<item>Mennekes (Type 2, Tethered Connector) </item>
+<item>T13 - SEC1011 ( Swiss domestic 3-pin ) - Type J</item>
+<item>Unknown</item>
+<item>J1772</item>
+<item>CHAdeMO</item>
+<item>BS1363 3 Pin 13 Amp</item>
+<item>Blue Commando (2P+E)</item>
+<item>LP Inductive</item>
+<item>SP Inductive</item>
+<item>Avcon Connector</item>
+<item>Tesla (Roadster)</item>
+<item>NEMA 5-20R</item>
+<item>NEMA 14-30</item>
+<item>NEMA 14-50</item>
+<item>Europlug 2-Pin (CEE 7/16)</item>
+<item>NEMA 6-20</item>
+<item>NEMA 6-15</item>
+<item>CEE 3 Pin</item>
+<item>CEE 5 Pin</item>
+<item>CEE+ 7 Pin</item>
+<item>XLR Plug (4 pin)</item>
+<item>NEMA 5-15R</item>
+<item>CEE 7/5</item>
+<item>Wireless Charging</item>
+<item>Mennekes (Type 2)</item>
+<item>SCAME Type 3C (Schnieder-Legrand)</item>
+<item>Tesla Supercharger</item>
+<item>CEE 7/4 - Schuko - Type F</item>
+<item>Type I (AS 3112)</item>
+<item>Tesla (Model S onwards)</item>
+<item>Tesla Battery Swap</item>
+<item>SAE Combo (DC Fast Charge J1772)</item>
+<item>CCS (Type 2 Version of Combined Coupler)</item>
+<item>IEC 60309 3-pin</item>
+<item>IEC 60309 5-pin</item>
+<item>SCAME Type 3A (Low Power)</item>
+<item>Mennekes (Type 2, Tethered Connector) </item>
+<item>T13 - SEC1011 ( Swiss domestic 3-pin ) - Type J</item>

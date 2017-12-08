@@ -1,0 +1,19 @@
+{
+  "name": "chargeserver",
+  "version": "0.0.0",
+  "description": "chargeserver",
+  "main": "server.js",
+  "author": {
+    "name": "Zsolt"
+  },
+  "dependencies": {
+    "@google/maps": "^0.4.5",
+    "async": "^2.5.0",
+    "body-parser": "^1.18.2",
+    "camelcase-keys": "^4.2.0",
+    "express": "^4.16.1",
+    "mongoose": "^4.12.1",
+    "node-geo-distance": "^1.2.0",
+    "request": "^2.83.0"
+  }
+}
