@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:text="Töltő típusa:"
+            android:textColor="@color/colorPrimaryLight" />
+
+        <com.jaredrummler.materialspinner.MaterialSpinner
+            android:id="@+id/chargers"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:backgroundTint="@color/colorPrimaryLight"
+            android:hint="Kérem válasszon" />
+
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="1dp"
+            android:background="@color/colorPrimaryDark" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:text="Hatótáv:"
+            android:textColor="@color/colorPrimaryLight" />
+
+        <EditText
+            android:id="@+id/distance"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:background="@drawable/edittext_bg"
+            android:hint="km"
+            android:padding="8dp" />
+
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="1dp"
+            android:background="@color/colorPrimaryDark" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:text="Márka"
+            android:textColor="@color/colorPrimaryLight" />
+
+        <com.jaredrummler.materialspinner.MaterialSpinner
+            android:id="@+id/chargers2"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:backgroundTint="@color/colorPrimaryLight"
+            android:hint="Kérem válasszon" />
+
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="1dp"
+            android:background="@color/colorPrimaryDark" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:text="Évjárat"
+            android:textColor="@color/colorPrimaryLight" />
+
+        <com.jaredrummler.materialspinner.MaterialSpinner
+            android:id="@+id/chargers3"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:backgroundTint="@color/colorPrimaryLight"
+            android:hint="Kérem válasszon" />
+    </LinearLayout>
+    </ScrollView>
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <Button
+        android:id="@+id/send_reservation"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:layout_gravity="bottom"
+        android:background="@color/colorAccent"
+        android:elevation="4dp"
+        android:gravity="center"
+        android:text="mentés"
+        android:textSize="24sp" />
+</LinearLayout>

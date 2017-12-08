@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:background="@color/colorPrimaryDark"
+        android:elevation="4dp"
+        android:gravity="center"
+        android:text="Aktuális foglalásom"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="24dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="0.98"
+            android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/act"
+            android:layout_width="0dp"
+            android:layout_height="56dp"
+            android:layout_weight="0.85"
+            android:background="@color/transparentColorPrimary"
+            android:gravity="center"
+            android:text="Nincs aktuális foglalás!"
+            android:textColor="@color/colorPrimaryLight" />
+
+        <ImageView
+            android:id="@+id/delete_reservation"
+            android:layout_width="0dp"
+            android:visibility="gone"
+            android:layout_weight="0.15"
+            android:padding="12dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/ic_delete_black_24dp"
+            android:background="@color/colorAccent"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:background="@color/colorPrimaryDark"
+        android:elevation="4dp"
+        android:gravity="center"
+        android:text="Korábbi foglalásaim"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="24dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.98"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/past1"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:layout_weight="0.98"
+                android:background="@color/transparentColorPrimary"
+                android:gravity="center"
+                android:text="2017-02-24 \n13:20-13:40"
+                android:textColor="@color/colorPrimaryLight" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="0.98"
+                android:background="@color/colorPrimaryDark" />
+
+            <TextView
+                android:id="@+id/past2"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:layout_weight="0.98"
+                android:background="@color/transparentColorPrimary"
+                android:gravity="center"
+                android:text="2017-02-20 \n13:20-13:40"
+                android:textColor="@color/colorPrimaryLight" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="0.98"
+                android:background="@color/colorPrimaryDark" />
+
+            <TextView
+                android:id="@+id/past3"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:layout_weight="0.98"
+                android:background="@color/transparentColorPrimary"
+                android:gravity="center"
+                android:text="2017-02-14 \n13:20-13:40"
+                android:textColor="@color/colorPrimaryLight" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="0.98"
+                android:background="@color/transparentColorPrimaryDark" />
+
+            <TextView
+                android:id="@+id/past4"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:layout_weight="0.98"
+                android:background="@color/transparentColorPrimary"
+                android:gravity="center"
+                android:text="2017-02-11 \n13:20-13:40"
+                android:textColor="@color/colorPrimaryLight" />
+
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

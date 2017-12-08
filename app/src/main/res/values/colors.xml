@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00BCD4</color>
+    <color name="colorPrimaryDark">#006064</color>
+    <color name="colorPrimaryLight">#E0F7FA</color>
+    <color name="transparentColorPrimary">#CC00BCD4</color>
+    <color name="transparentColorPrimaryDark">#CC006064</color>
+    <color name="transparentColorPrimaryLight">#CCE0F7FA</color>
+    <color name="veryTransparentColorPrimary">#4400BCD4</color>
+    <color name="veryTransparentColorPrimaryDark">#44006064</color>
+    <color name="veryTransparentColorPrimaryLight">#44E0F7FA</color>
+    <color name="colorAccent">#EF5350</color>
+    <color name="transparentColorAccent">#CCEF5350</color>
+    <color name="veryTransparentColorAccent">#44EF5350</color>
+    <color name="white">#FFFFFF</color>
+</resources>

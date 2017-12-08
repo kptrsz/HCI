@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Charger</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string-array name="list_connectors">
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+        <item>e</item>
+    </string-array>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="map">Térkép</string>
+    <string name="reservation">Foglalás</string>
+    <string name="statistics">Statisztika</string>
+    <string name="settings">Beállítások</string>
+    <string name="information">Információ</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="config_rest_api_url">https://api.openchargemap.io/v2/</string>
+    <string name="directionsApiKey">AIzaSyDtRKzb5VsX07BMeWFxhZn_T_e6sSOM6-0</string>
+</resources>

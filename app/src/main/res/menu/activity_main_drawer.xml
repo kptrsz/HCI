@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_maps"
+            android:icon="@drawable/ic_map"
+            android:title="Közeli töltőállomások" />
+        <item
+            android:id="@+id/nav"
+            android:icon="@drawable/ic_navigation_black_24dp"
+            android:title="Navigáció" />
+        <item
+            android:id="@+id/nav_reservation"
+            android:icon="@drawable/ic_local_gas_station"
+            android:title="@string/reservation" />
+        <item
+            android:id="@+id/nav_my_reservations"
+            android:icon="@drawable/ic_access_time_black_24dp"
+            android:title="Foglalásaim" />
+        <item
+            android:id="@+id/nav_stats"
+            android:icon="@drawable/ic_multiline_chart"
+            android:title="@string/statistics" />
+    </group>
+
+    <item android:title="@string/settings">
+        <menu>
+            <item
+                android:id="@+id/nav_settings"
+                android:icon="@drawable/ic_settings"
+                android:title="@string/settings" />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_exit"
+                android:title="@string/logout" />
+        </menu>
+    </item>
+    <item android:title="@string/information">
+        <menu>
+            <item
+                android:id="@+id/nav_info"
+                android:icon="@drawable/ic_info"
+                android:title="@string/information" />
+        </menu>
+    </item>
+
+</menu>
